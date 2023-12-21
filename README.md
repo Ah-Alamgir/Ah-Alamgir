@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 10px;">
 <h2 align="left">Passionate Android Developer | Proficient in Java, Kotlin, and Android Studio | Mechanical Enthusiast | AutoCAD & fusion 360. Aficionado | G-code & M-code Explorer Eager to learn both Mechanical and android development.</h2>
 
 ###
