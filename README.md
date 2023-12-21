@@ -2,29 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4E16AQHf9g4fdzLG4A/profile-displaybackgroundimage-shrink_350_1400/0/1702966552900?e=1708560000&v=beta&t=fmdG7-c1CVzwHR2Xo0ylcTJsctGuSGq52ZdxXkjqkWo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D5603AQEJfMJB3ev2OA/profile-displayphoto-shrink_800_800/0/1702124227198?e=1708560000&v=beta&t=rNoKHXR0owsAWEEimdS5ENT9VL_lF2G2Pwj2HXcSo7k"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ah-alamgir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-alamgir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -72,3 +49,17 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="35" alt="whatsapp logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ah-alamgir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-alamgir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ah-alamgir/ah-alamgir/output/snake.svg" alt="Snake animation" />
+
+###
